@@ -1,0 +1,14 @@
+	["handcuff"] = {
+		label = "handcuff",
+		weight = 10,
+		stack = true,
+		close = true,
+		
+	},
+	["footcuff"] = {
+		label = "footcuff",
+		weight = 10,
+		stack = true,
+		close = true,
+		
+	},
